@@ -31,7 +31,7 @@ Atlases smoothed with 8-10mm Gaussian kernel, suitable for standard clinical app
 ## Features
 
 - **Age-Dependent**: Separate atlases for different age decades (20-90 years)
-- **Harmonized**: Atlases harmonized across different scanners and protocols
+- **Harmonized**: Atlases harmonized using 3D Hoffman phantom
 - **MNI Space**: All atlases are in standard MNI space for easy integration
 - **Multiple Smoothing Kernels**: Two smoothing options for different application needs
 - **SUVr Normalized**: Standardized Uptake Value ratio normalized for quantitative analysis
